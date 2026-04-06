@@ -1,0 +1,169 @@
+{
+  "lang": "en",
+  "title": "Privacy Policy - WasteLess",
+  "description": "Privacy policy for the WasteLess mobile application (EN).",
+  "intro": "This policy explains how WasteLess collects, uses, protects, and deletes your personal data when you use the mobile app.",
+  "lastUpdated": "April 6, 2026",
+  "effectiveDate": "April 6, 2026",
+  "tocTitle": "Contents",
+  "labelLastUpdated": "Last updated",
+  "labelEffectiveDate": "Effective date",
+  "footnote": "If translations differ, local mandatory law prevails. For French-speaking users, the French version is the primary reference unless local law requires otherwise.",
+  "sections": [
+    {
+      "id": "controller",
+      "title": "1. Data controller",
+      "paragraphs": [
+        "The publisher and data controller is Hilaire Giovanni, 925 Boulevard Rene-Levesque Est, Canada.",
+        "Primary privacy and support contact: support.wasteless@gmail.com.",
+        "Secondary legal contact: giovanni.hilaire01@gmail.com."
+      ]
+    },
+    {
+      "id": "scope",
+      "title": "2. Scope",
+      "paragraphs": [
+        "This policy applies to the WasteLess application and related services (authentication, cloud sync, recipe suggestions, shopping list, notifications, and support).",
+        "It does not cover third-party services outside our control (for example, external pages opened from the app or Apple/Google store pages)."
+      ]
+    },
+    {
+      "id": "data",
+      "title": "3. Data we collect",
+      "paragraphs": [
+        "We only collect data needed to provide and secure the service."
+      ],
+      "bullets": [
+        "Account data: user identifier (UID), email address, and sign-in method (email, Google, Apple).",
+        "Functional data: food inventory, usage/disposal history, favorite recipes, shopping list, food preferences, and goals.",
+        "Technical data: push notification token (FCM), minimum security metadata, and limited technical logs for diagnostics and abuse prevention.",
+        "Content data: product details from barcode scanning (Open Food Facts) and recipe-related data generated through the backend proxy.",
+        "Support data: information you voluntarily send by email."
+      ]
+    },
+    {
+      "id": "permissions",
+      "title": "4. Device permissions",
+      "bullets": [
+        "Camera: barcode scanning.",
+        "Photos/gallery (platform-dependent): profile image selection.",
+        "Notifications: expiration alerts and reminders, only if enabled on your device."
+      ],
+      "paragraphs": [
+        "You can revoke permissions in your device settings. Some features may then be unavailable or degraded."
+      ]
+    },
+    {
+      "id": "purposes",
+      "title": "5. Purposes and legal bases",
+      "bullets": [
+        "Providing WasteLess services (contract performance): authentication, cloud backup, inventory sync, recipe suggestions, planning, and shopping list features.",
+        "Sending notifications when enabled (consent / device choice).",
+        "Platform security (legitimate interest): abuse mitigation, infrastructure protection, and fraud prevention.",
+        "Compliance with legal and regulatory obligations."
+      ]
+    },
+    {
+      "id": "processors",
+      "title": "6. Recipients and processors",
+      "paragraphs": [
+        "Your data may be processed by the following service providers only for the purposes described in this policy:"
+      ],
+      "bullets": [
+        "Google Firebase (Auth, Firestore, Storage, Cloud Functions, Cloud Messaging): hosting, authentication, database, server functions, notifications.",
+        "OpenAI: AI-generated suggestions/features and, where applicable, recipe images through the backend proxy.",
+        "Spoonacular: recipe services for relevant product flows.",
+        "Open Food Facts: product data after barcode scans.",
+        "Resend: transactional email delivery (for example, welcome email if enabled).",
+        "Apple and Google: federated sign-in and in-app purchase/subscription management through app stores."
+      ]
+    },
+    {
+      "id": "transfers",
+      "title": "7. International transfers",
+      "paragraphs": [
+        "Some providers may process data outside your country of residence, including outside Canada or outside the EEA.",
+        "Where required, we rely on appropriate safeguards such as contractual commitments and technical/organizational security controls."
+      ]
+    },
+    {
+      "id": "retention",
+      "title": "8. Retention",
+      "bullets": [
+        "Account and app data: kept while your account remains active.",
+        "Technical logs: retained for limited periods, proportionate to security and diagnostics needs.",
+        "Support emails: retained for as long as needed to handle your request and meet legal obligations."
+      ],
+      "paragraphs": [
+        "When your account is deleted, data is deleted or anonymized subject to technical and legal constraints."
+      ]
+    },
+    {
+      "id": "deletion",
+      "title": "9. Account deletion and erasure",
+      "paragraphs": [
+        "You may request account deletion from the app (where available) or by contacting support.",
+        "Deletion triggers cleanup of associated data (profile, inventory, history, favorites, shopping lists, and related records), except where retention is required for legal, security, or anti-fraud reasons.",
+        "Important: deleting your app account does not automatically cancel store subscriptions. Subscription management remains in App Store/Google Play settings."
+      ]
+    },
+    {
+      "id": "rights",
+      "title": "10. Your rights (Canada, France, EU depending on your location)",
+      "bullets": [
+        "Access, correction, and update rights.",
+        "Erasure, restriction, objection, and data portability where applicable.",
+        "Withdrawal of consent (for example, notifications) without retroactive effect.",
+        "Right to lodge a complaint with a competent supervisory authority."
+      ],
+      "paragraphs": [
+        "To exercise your rights, contact support.wasteless@gmail.com and include your request plus the email associated with your account. We may request reasonable identity verification."
+      ]
+    },
+    {
+      "id": "security",
+      "title": "11. Security",
+      "bullets": [
+        "Access controls and least-privilege principles.",
+        "Secure communication channels (HTTPS/TLS).",
+        "Firebase security rules and server-side anti-abuse mechanisms.",
+        "Limited technical logging for diagnostics and security only."
+      ],
+      "paragraphs": [
+        "No transmission or storage method is completely risk-free. We apply reasonable safeguards aligned with the sensitivity of data and service risks."
+      ]
+    },
+    {
+      "id": "children",
+      "title": "12. Children",
+      "paragraphs": [
+        "The service is not designed to intentionally collect personal data from children in violation of applicable law.",
+        "If you believe a child has provided personal data inappropriately, contact us for prompt review and deletion."
+      ]
+    },
+    {
+      "id": "cookies",
+      "title": "13. Cookies and similar technologies",
+      "paragraphs": [
+        "The mobile app does not use a traditional website cookie banner. Some technical components (for example, authentication sessions and cloud services) may rely on strictly necessary equivalent mechanisms."
+      ]
+    },
+    {
+      "id": "changes",
+      "title": "14. Policy changes",
+      "paragraphs": [
+        "We may update this policy to reflect service changes, legal updates, or operational practices.",
+        "The date at the top indicates the current version. For material changes, we may notify you in-app or by email."
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "15. Contact",
+      "bullets": [
+        "Support and privacy requests: support.wasteless@gmail.com",
+        "Legal publisher contact: giovanni.hilaire01@gmail.com",
+        "Publisher: Hilaire Giovanni, 925 Boulevard Rene-Levesque Est, Canada"
+      ]
+    }
+  ]
+}

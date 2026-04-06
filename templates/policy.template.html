@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="{{LANG}}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{TITLE}}</title>
+  <meta name="description" content="{{DESCRIPTION}}">
+  <meta name="robots" content="index,follow">
+  <meta name="theme-color" content="#f7f3eb">
+  <link rel="canonical" href="{{CANONICAL_URL}}">
+  <link rel="alternate" hreflang="fr" href="{{ALT_FR_URL}}">
+  <link rel="alternate" hreflang="en" href="{{ALT_EN_URL}}">
+  <link rel="alternate" hreflang="x-default" href="{{DEFAULT_URL}}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{TITLE}}">
+  <meta property="og:description" content="{{DESCRIPTION}}">
+  <meta property="og:url" content="{{CANONICAL_URL}}">
+  <style>
+    :root {
+      --bg: #f7f3eb;
+      --ink: #1d2b2a;
+      --muted: #5f6d6b;
+      --card: #fffdf9;
+      --line: #d7d3cb;
+      --accent: #1f6b5a;
+      --accent-soft: #e6f2ef;
+      --shadow: 0 10px 30px rgba(20, 34, 31, 0.08);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Segoe UI", "Trebuchet MS", "Gill Sans", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 700px at 90% -15%, #e8efe3 0%, transparent 65%),
+        radial-gradient(900px 600px at -10% 15%, #efe5d8 0%, transparent 60%),
+        var(--bg);
+      line-height: 1.65;
+    }
+
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 28px 16px 48px;
+    }
+
+    .hero {
+      background: linear-gradient(140deg, #f4ecdf, #eef4ec 60%, #edf5f3);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      box-shadow: var(--shadow);
+      padding: 26px;
+      margin-bottom: 16px;
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: clamp(1.7rem, 2.6vw, 2.35rem);
+      line-height: 1.2;
+      letter-spacing: -0.02em;
+    }
+
+    .lede {
+      margin: 0;
+      color: var(--muted);
+      max-width: 74ch;
+    }
+
+    .meta {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 8px;
+      margin-top: 14px;
+      font-size: 0.95rem;
+      color: var(--muted);
+    }
+
+    .lang-switch {
+      margin: 12px 0 18px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .lang-switch a {
+      text-decoration: none;
+      border: 1px solid var(--line);
+      background: var(--card);
+      color: var(--ink);
+      padding: 7px 12px;
+      border-radius: 999px;
+      font-size: 0.9rem;
+    }
+
+    .lang-switch a[aria-current="true"] {
+      background: var(--accent-soft);
+      border-color: #b8d8cf;
+      color: #194f43;
+      font-weight: 700;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: minmax(0, 280px) minmax(0, 1fr);
+      gap: 16px;
+      align-items: start;
+    }
+
+    .toc,
+    .content {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+    }
+
+    .toc {
+      position: sticky;
+      top: 10px;
+      padding: 18px;
+    }
+
+    .toc h2 {
+      margin: 0 0 8px;
+      font-size: 1rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .toc ul {
+      margin: 0;
+      padding-left: 18px;
+    }
+
+    .toc li { margin: 6px 0; }
+
+    .toc a {
+      color: #215649;
+      text-decoration: none;
+    }
+
+    .toc a:hover { text-decoration: underline; }
+
+    .content {
+      padding: 22px;
+    }
+
+    section + section {
+      border-top: 1px solid var(--line);
+      margin-top: 18px;
+      padding-top: 18px;
+    }
+
+    h3 {
+      margin: 0 0 8px;
+      font-size: 1.2rem;
+      line-height: 1.35;
+    }
+
+    p {
+      margin: 10px 0;
+      max-width: 78ch;
+    }
+
+    ul {
+      margin: 8px 0;
+      padding-left: 20px;
+    }
+
+    li + li { margin-top: 6px; }
+
+    .muted {
+      color: var(--muted);
+      font-size: 0.93rem;
+    }
+
+    @media (max-width: 880px) {
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .toc {
+        position: static;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <h1>{{TITLE}}</h1>
+      <p class="lede">{{INTRO}}</p>
+      <div class="meta">
+        <div><strong>{{LABEL_LAST_UPDATED}}:</strong> {{LAST_UPDATED}}</div>
+        <div><strong>{{LABEL_EFFECTIVE_DATE}}:</strong> {{EFFECTIVE_DATE}}</div>
+      </div>
+    </header>
+
+    <nav class="lang-switch" aria-label="Language switcher">
+      <a href="{{ALT_FR_URL}}" {{FR_CURRENT_ATTR}}>Francais</a>
+      <a href="{{ALT_EN_URL}}" {{EN_CURRENT_ATTR}}>English</a>
+    </nav>
+
+    <main class="grid">
+      <aside class="toc" aria-labelledby="toc-title">
+        <h2 id="toc-title">{{TOC_TITLE}}</h2>
+        <ul>
+          {{TOC_ITEMS}}
+        </ul>
+      </aside>
+
+      <article class="content">
+        {{SECTIONS_HTML}}
+        <p class="muted">{{FOOTNOTE}}</p>
+      </article>
+    </main>
+  </div>
+</body>
+</html>

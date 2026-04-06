@@ -1,0 +1,142 @@
+{
+  "lang": "en",
+  "title": "Terms of Use - WasteLess",
+  "description": "Terms of use for the WasteLess mobile app (EN).",
+  "intro": "These terms govern your use of WasteLess. By using the service, you agree to these terms.",
+  "lastUpdated": "April 6, 2026",
+  "effectiveDate": "April 6, 2026",
+  "tocTitle": "Contents",
+  "labelLastUpdated": "Last updated",
+  "labelEffectiveDate": "Effective date",
+  "footnote": "If translations differ, mandatory local law prevails.",
+  "sections": [
+    {
+      "id": "publisher",
+      "title": "1. Service publisher",
+      "paragraphs": [
+        "WasteLess is published by Hilaire Giovanni, 925 Boulevard Rene-Levesque Est, Canada.",
+        "Support contact: support.wasteless@gmail.com.",
+        "Legal contact: giovanni.hilaire01@gmail.com."
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "2. Service purpose",
+      "paragraphs": [
+        "WasteLess helps users reduce food waste through inventory tracking, alerts, recipe suggestions, and shopping list tools.",
+        "The service is provided as available and may depend on third-party platform availability."
+      ]
+    },
+    {
+      "id": "account",
+      "title": "3. User account",
+      "bullets": [
+        "You must provide accurate registration information.",
+        "You are responsible for keeping your credentials confidential.",
+        "You must promptly notify us of unauthorized account access.",
+        "We may suspend or restrict accounts used in abusive or non-compliant ways."
+      ]
+    },
+    {
+      "id": "acceptable-use",
+      "title": "4. Acceptable and prohibited use",
+      "paragraphs": [
+        "You agree to use WasteLess in compliance with applicable law and these terms."
+      ],
+      "bullets": [
+        "Prohibited: bypassing security, unauthorized reverse engineering, abusive scraping, fraud, harassment, or unlawful use.",
+        "Prohibited: uploading or sharing content that infringes third-party rights or violates law.",
+        "Prohibited: automated use that disrupts service stability (bots, intentional overload, API abuse)."
+      ]
+    },
+    {
+      "id": "subscriptions",
+      "title": "5. Subscriptions and payments",
+      "bullets": [
+        "Some features may require a paid Premium subscription.",
+        "In-app purchases and subscriptions are handled by Apple App Store or Google Play, depending on your device.",
+        "Pricing, taxes, renewals, and cancellations are governed by the applicable store rules.",
+        "Deleting your WasteLess account does not automatically cancel an active store subscription."
+      ]
+    },
+    {
+      "id": "privacy",
+      "title": "6. Personal data",
+      "paragraphs": [
+        "Personal data processing is described in the Privacy Policy.",
+        "By using the service, you acknowledge the use of technical processors (Firebase, OpenAI, Spoonacular, Open Food Facts, and others as described)."
+      ]
+    },
+    {
+      "id": "ip",
+      "title": "7. Intellectual property",
+      "bullets": [
+        "The service, code, design, text, and visual assets are protected by intellectual property rights.",
+        "No transfer of ownership rights is granted; only a personal, non-exclusive, non-transferable license to use the service.",
+        "Unauthorized reproduction or commercial exploitation is prohibited."
+      ]
+    },
+    {
+      "id": "ai-content",
+      "title": "8. AI content and suggestions",
+      "paragraphs": [
+        "Automatically generated recipe suggestions and related content are provided for informational purposes.",
+        "You are responsible for verifying ingredients, allergens, preparation details, and suitability for your own context."
+      ],
+      "bullets": [
+        "WasteLess does not provide medical advice or professional diagnosis.",
+        "Third-party data sources may contain errors, delays, or omissions."
+      ]
+    },
+    {
+      "id": "availability",
+      "title": "9. Availability and service changes",
+      "bullets": [
+        "We may modify, suspend, or discontinue parts of the service at any time for maintenance, security, or product evolution reasons.",
+        "We may add, modify, or remove features without maintaining legacy behavior."
+      ]
+    },
+    {
+      "id": "liability",
+      "title": "10. Limitation of liability",
+      "paragraphs": [
+        "To the extent permitted by law, WasteLess is not liable for indirect damages, loss of data, revenue loss, or downtime caused by reasonable external factors.",
+        "You use the service at your own risk."
+      ]
+    },
+    {
+      "id": "termination",
+      "title": "11. Termination",
+      "bullets": [
+        "You may stop using the service at any time.",
+        "You may request account deletion via the app or support.",
+        "We may suspend or terminate access for serious or repeated violations of these terms."
+      ]
+    },
+    {
+      "id": "law",
+      "title": "12. Governing law and disputes",
+      "paragraphs": [
+        "These terms are interpreted under applicable laws of your jurisdiction and, where permitted, under Canadian law.",
+        "Before formal proceedings, parties should attempt an amicable resolution by contacting support.wasteless@gmail.com."
+      ]
+    },
+    {
+      "id": "updates",
+      "title": "13. Changes to these terms",
+      "paragraphs": [
+        "We may update these terms to reflect service evolution or legal requirements.",
+        "The date at the top of this page indicates the current effective version."
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "14. Contact",
+      "bullets": [
+        "Support: support.wasteless@gmail.com",
+        "Legal contact: giovanni.hilaire01@gmail.com",
+        "Publisher: Hilaire Giovanni, 925 Boulevard Rene-Levesque Est, Canada"
+      ]
+    }
+  ]
+}
