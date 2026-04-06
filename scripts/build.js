@@ -4,7 +4,8 @@ const path = require("path");
 const ROOT = path.resolve(__dirname, "..");
 const TEMPLATE_PATH = path.join(ROOT, "templates", "policy.template.html");
 const OUT_DIR = ROOT;
-const BASE_URL = "https://wasteless.privacy-policy.github.io";
+const BASE_URL =
+  "https://supportwasteless-hub.github.io/Wasteless.privacy-policy.github.io";
 
 const DOCS = [
   {

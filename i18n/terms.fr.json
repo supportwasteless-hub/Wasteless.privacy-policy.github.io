@@ -2,141 +2,140 @@
   "lang": "fr",
   "title": "Conditions d'utilisation - WasteLess",
   "description": "Conditions d'utilisation de l'application WasteLess (FR).",
-  "intro": "Ces conditions encadrent l'utilisation de l'application WasteLess. En utilisant le service, vous acceptez les presentes conditions.",
+  "intro": "Ces conditions encadrent l'utilisation de l'application WasteLess. En utilisant le service, vous acceptez les présentes conditions.",
   "lastUpdated": "6 avril 2026",
   "effectiveDate": "6 avril 2026",
   "tocTitle": "Sommaire",
-  "labelLastUpdated": "Derniere mise a jour",
-  "labelEffectiveDate": "Date d'entree en vigueur",
-  "footnote": "Pour les utilisateurs francophones, la version francaise est la reference, sauf regle locale imperative contraire.",
+  "labelLastUpdated": "Dernière mise à jour",
+  "labelEffectiveDate": "Date d'entrée en vigueur",
+  "footnote": "Pour les utilisateurs francophones, la version française est la référence, sauf règle locale impérative contraire.",
   "sections": [
     {
       "id": "editeur",
-      "title": "1. Editeur du service",
+      "title": "1. Éditeur du service",
       "paragraphs": [
-        "WasteLess est edite par Hilaire Giovanni, 925 Boulevard Rene-Levesque Est, Canada.",
-        "Contact support: support.wasteless@gmail.com.",
-        "Contact legal: giovanni.hilaire01@gmail.com."
+        "WasteLess est édité par Hilaire Giovanni, 925 Boulevard René-Lévesque Est, Canada.",
+        "Contact support : support.wasteless@gmail.com.",
+        "Contact juridique : giovanni.hilaire01@gmail.com."
       ]
     },
     {
       "id": "objet",
       "title": "2. Objet du service",
       "paragraphs": [
-        "WasteLess aide a reduire le gaspillage alimentaire via un inventaire, des alertes, des suggestions de recettes et une liste de courses.",
-        "Le service est fourni en l'etat, selon disponibilite des composants tiers, sans garantie d'absence d'interruption."
-      ],
-      "bullets": []
+        "WasteLess aide à réduire le gaspillage alimentaire via un inventaire, des alertes, des suggestions de recettes et une liste de courses.",
+        "Le service est fourni en l'état, selon la disponibilité des composants tiers, sans garantie d'absence d'interruption."
+      ]
     },
     {
       "id": "compte",
       "title": "3. Compte utilisateur",
       "bullets": [
         "Vous devez fournir des informations exactes lors de l'inscription.",
-        "Vous etes responsable de la confidentialite de vos identifiants.",
-        "Vous devez signaler rapidement tout acces non autorise a votre compte.",
+        "Vous êtes responsable de la confidentialité de vos identifiants.",
+        "Vous devez signaler rapidement tout accès non autorisé à votre compte.",
         "Nous pouvons suspendre ou limiter un compte en cas d'usage abusif ou non conforme."
       ]
     },
     {
       "id": "usage",
-      "title": "4. Usage autorise et interdit",
+      "title": "4. Usage autorisé et interdit",
       "paragraphs": [
-        "Vous vous engagez a utiliser WasteLess dans le respect des lois applicables et de ces conditions."
+        "Vous vous engagez à utiliser WasteLess dans le respect des lois applicables et de ces conditions."
       ],
       "bullets": [
-        "Interdit: tentative de contournement de securite, extraction massive de donnees, reverse engineering non autorise, fraude, harcelement ou usage illicite.",
-        "Interdit: soumettre des contenus portant atteinte aux droits de tiers ou a la loi.",
-        "Interdit: usage automatise perturbant le service (bots, surcharge volontaire, abus API)."
+        "Interdit : tentative de contournement de sécurité, extraction massive de données, reverse engineering non autorisé, fraude, harcèlement ou usage illicite.",
+        "Interdit : soumettre des contenus portant atteinte aux droits de tiers ou à la loi.",
+        "Interdit : usage automatisé perturbant le service (bots, surcharge volontaire, abus API)."
       ]
     },
     {
       "id": "abonnement",
       "title": "5. Abonnements et paiements",
       "bullets": [
-        "Certaines fonctionnalites peuvent etre payantes (offre Premium).",
-        "Les achats in-app et abonnements sont geres par Apple App Store ou Google Play selon votre appareil.",
-        "Les prix, taxes, renouvellements et annulations sont regis par les regles du store applicable.",
+        "Certaines fonctionnalités peuvent être payantes (offre Premium).",
+        "Les achats in-app et abonnements sont gérés par Apple App Store ou Google Play selon votre appareil.",
+        "Les prix, taxes, renouvellements et annulations sont régis par les règles du store applicable.",
         "La suppression du compte WasteLess n'annule pas automatiquement un abonnement store actif."
       ]
     },
     {
       "id": "donnees",
-      "title": "6. Donnees personnelles",
+      "title": "6. Données personnelles",
       "paragraphs": [
-        "Le traitement des donnees personnelles est decrit dans la Politique de confidentialite.",
-        "En utilisant le service, vous reconnaissez avoir lu cette politique et comprenez le role des sous-traitants techniques (Firebase, OpenAI, Spoonacular, Open Food Facts, etc.)."
+        "Le traitement des données personnelles est décrit dans la Politique de confidentialité.",
+        "En utilisant le service, vous reconnaissez avoir lu cette politique et comprendre le rôle des sous-traitants techniques (Firebase, OpenAI, Spoonacular, Open Food Facts, etc.)."
       ]
     },
     {
       "id": "intellectuelle",
-      "title": "7. Propriete intellectuelle",
+      "title": "7. Propriété intellectuelle",
       "bullets": [
-        "Le service, son code, son design, ses textes et ses elements visuels sont proteges par les droits de propriete intellectuelle.",
-        "Aucune cession de droits n'est accordee, hors licence d'utilisation personnelle, non exclusive et non transferable.",
-        "Toute reproduction ou exploitation non autorisee est interdite."
+        "Le service, son code, son design, ses textes et ses éléments visuels sont protégés par les droits de propriété intellectuelle.",
+        "Aucune cession de droits n'est accordée, hors licence d'utilisation personnelle, non exclusive et non transférable.",
+        "Toute reproduction ou exploitation non autorisée est interdite."
       ]
     },
     {
       "id": "contenu-ia",
       "title": "8. Contenus et suggestions IA",
       "paragraphs": [
-        "Les suggestions de recettes et contenus generes automatiquement sont fournis a titre informatif.",
-        "Vous restez responsable de verifier les ingredients, allergenes, temps de cuisson, conservation et adequation a votre situation."
+        "Les suggestions de recettes et contenus générés automatiquement sont fournis à titre informatif.",
+        "Vous restez responsable de vérifier les ingrédients, allergènes, temps de cuisson, conservation et adéquation à votre situation."
       ],
       "bullets": [
-        "WasteLess ne fournit pas de conseil medical, nutritionnel personnalise ou diagnostique.",
-        "Les donnees de tiers peuvent contenir des erreurs, retards ou incompletudes."
+        "WasteLess ne fournit pas de conseil médical, nutritionnel personnalisé ou diagnostic.",
+        "Les données de tiers peuvent contenir des erreurs, retards ou incomplétudes."
       ]
     },
     {
       "id": "disponibilite",
-      "title": "9. Disponibilite et evolution",
+      "title": "9. Disponibilité et évolution",
       "bullets": [
-        "Nous pouvons modifier, suspendre ou arreter tout ou partie du service a tout moment, notamment pour maintenance, securite ou evolution produit.",
-        "Nous pouvons ajouter, modifier ou retirer des fonctionnalites sans obligation de maintenir une version anterieure."
+        "Nous pouvons modifier, suspendre ou arrêter tout ou partie du service à tout moment, notamment pour maintenance, sécurité ou évolution produit.",
+        "Nous pouvons ajouter, modifier ou retirer des fonctionnalités sans obligation de maintenir une version antérieure."
       ]
     },
     {
       "id": "responsabilite",
-      "title": "10. Limitation de responsabilite",
+      "title": "10. Limitation de responsabilité",
       "paragraphs": [
-        "Dans les limites autorisees par la loi, WasteLess ne peut etre tenu responsable des dommages indirects, perte de donnees, perte de revenus ou indisponibilite due a des causes externes raisonnables.",
-        "Votre utilisation du service se fait sous votre responsabilite."
+        "Dans les limites autorisées par la loi, WasteLess ne peut être tenu responsable des dommages indirects, pertes de données, pertes de revenus ou indisponibilités dues à des causes externes raisonnables.",
+        "Votre utilisation du service se fait sous votre responsabilité."
       ]
     },
     {
       "id": "resiliation",
-      "title": "11. Resiliation",
+      "title": "11. Résiliation",
       "bullets": [
-        "Vous pouvez cesser d'utiliser le service a tout moment.",
+        "Vous pouvez cesser d'utiliser le service à tout moment.",
         "Vous pouvez demander la suppression de votre compte via l'app ou le support.",
-        "Nous pouvons suspendre ou resilier l'acces en cas de violation grave ou repetee de ces conditions."
+        "Nous pouvons suspendre ou résilier l'accès en cas de violation grave ou répétée de ces conditions."
       ]
     },
     {
       "id": "droit",
       "title": "12. Droit applicable et litiges",
       "paragraphs": [
-        "Ces conditions sont interpretees selon les lois applicables dans votre juridiction de residence et, subsidiairement, selon le droit canadien lorsqu'autorise.",
-        "En cas de litige, une resolution amiable est recherchee en priorite via support.wasteless@gmail.com."
+        "Ces conditions sont interprétées selon les lois applicables dans votre juridiction de résidence et, subsidiairement, selon le droit canadien lorsqu'autorisé.",
+        "En cas de litige, une résolution amiable est recherchée en priorité via support.wasteless@gmail.com."
       ]
     },
     {
       "id": "modifications",
       "title": "13. Modifications des conditions",
       "paragraphs": [
-        "Nous pouvons mettre a jour ces conditions pour refleter l'evolution du service ou des obligations legales.",
-        "La date de mise a jour indique la version en vigueur."
+        "Nous pouvons mettre à jour ces conditions pour refléter l'évolution du service ou des obligations légales.",
+        "La date de mise à jour indique la version en vigueur."
       ]
     },
     {
       "id": "contact",
       "title": "14. Contact",
       "bullets": [
-        "Support: support.wasteless@gmail.com",
-        "Contact legal: giovanni.hilaire01@gmail.com",
-        "Editeur: Hilaire Giovanni, 925 Boulevard Rene-Levesque Est, Canada"
+        "Support : support.wasteless@gmail.com",
+        "Contact juridique : giovanni.hilaire01@gmail.com",
+        "Éditeur : Hilaire Giovanni, 925 Boulevard René-Lévesque Est, Canada"
       ]
     }
   ]

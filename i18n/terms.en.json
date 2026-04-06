@@ -1,6 +1,6 @@
 {
   "lang": "en",
-  "title": "Terms of Use - WasteLess",
+  "title": "Terms of use - WasteLess",
   "description": "Terms of use for the WasteLess mobile app (EN).",
   "intro": "These terms govern your use of WasteLess. By using the service, you agree to these terms.",
   "lastUpdated": "April 6, 2026",
@@ -12,7 +12,7 @@
   "sections": [
     {
       "id": "publisher",
-      "title": "1. Service publisher",
+      "title": "1. Service provider",
       "paragraphs": [
         "WasteLess is published by Hilaire Giovanni, 925 Boulevard Rene-Levesque Est, Canada.",
         "Support contact: support.wasteless@gmail.com.",
@@ -54,7 +54,7 @@
       "title": "5. Subscriptions and payments",
       "bullets": [
         "Some features may require a paid Premium subscription.",
-        "In-app purchases and subscriptions are handled by Apple App Store or Google Play, depending on your device.",
+        "In-app purchases and subscriptions are handled by the Apple App Store or Google Play, depending on your device.",
         "Pricing, taxes, renewals, and cancellations are governed by the applicable store rules.",
         "Deleting your WasteLess account does not automatically cancel an active store subscription."
       ]

@@ -1,168 +1,168 @@
 {
   "lang": "fr",
-  "title": "Politique de confidentialite - WasteLess",
-  "description": "Politique de confidentialite de l'application WasteLess (FR).",
-  "intro": "Cette politique explique comment WasteLess collecte, utilise, protege et supprime vos donnees personnelles lorsque vous utilisez l'application mobile.",
+  "title": "Politique de confidentialité - WasteLess",
+  "description": "Politique de confidentialité de l'application WasteLess (FR).",
+  "intro": "Cette politique explique comment WasteLess collecte, utilise, protège et supprime vos données personnelles lorsque vous utilisez l'application mobile.",
   "lastUpdated": "6 avril 2026",
   "effectiveDate": "6 avril 2026",
   "tocTitle": "Sommaire",
-  "labelLastUpdated": "Derniere mise a jour",
-  "labelEffectiveDate": "Date d'entree en vigueur",
-  "footnote": "En cas de contradiction entre les versions, la version francaise prevaut pour les utilisateurs francophones, sauf exigence legale locale contraire.",
+  "labelLastUpdated": "Dernière mise à jour",
+  "labelEffectiveDate": "Date d'entrée en vigueur",
+  "footnote": "En cas de contradiction entre les versions, la version française prévaut pour les utilisateurs francophones, sauf exigence légale locale contraire.",
   "sections": [
     {
       "id": "responsable",
       "title": "1. Responsable du traitement",
       "paragraphs": [
-        "L'editeur et responsable du traitement est Hilaire Giovanni, 925 Boulevard Rene-Levesque Est, Canada.",
-        "Contact principal protection des donnees et support: support.wasteless@gmail.com.",
-        "Contact legal secondaire: giovanni.hilaire01@gmail.com."
+        "L'éditeur et responsable du traitement est Hilaire Giovanni, 925 Boulevard René-Lévesque Est, Canada.",
+        "Contact principal protection des données et support : support.wasteless@gmail.com.",
+        "Contact juridique secondaire : giovanni.hilaire01@gmail.com."
       ]
     },
     {
       "id": "champ",
       "title": "2. Champ d'application",
       "paragraphs": [
-        "La presente politique s'applique a l'application WasteLess et aux services associes (authentification, synchronisation cloud, suggestions de recettes, liste de courses, notifications, support).",
-        "Elle ne couvre pas les services tiers sur lesquels nous n'avons pas de controle (ex.: pages externes ouvertes depuis l'app, boutiques Apple/Google)."
+        "La présente politique s'applique à l'application WasteLess et aux services associés (authentification, synchronisation cloud, suggestions de recettes, liste de courses, notifications, support).",
+        "Elle ne couvre pas les services tiers sur lesquels nous n'avons pas de contrôle (ex. : pages externes ouvertes depuis l'app, boutiques Apple/Google)."
       ]
     },
     {
       "id": "donnees",
-      "title": "3. Donnees collectees",
+      "title": "3. Données collectées",
       "paragraphs": [
-        "Nous collectons uniquement les donnees necessaires au fonctionnement de l'app."
+        "Nous collectons uniquement les données nécessaires au fonctionnement de l'app."
       ],
       "bullets": [
-        "Donnees de compte: identifiant utilisateur (UID), adresse e-mail, methode de connexion (e-mail, Google, Apple).",
-        "Donnees fonctionnelles: inventaire alimentaire, historique de consommation/jet, favoris recettes, liste de courses, preferences alimentaires et objectifs.",
-        "Donnees techniques: jeton FCM de notifications push, metadonnees de securite minimales, journaux techniques necessaires au diagnostic et a la prevention d'abus.",
-        "Donnees de contenu: informations produit issues du scan code-barres (Open Food Facts) et donnees de recettes generees via le proxy backend.",
-        "Donnees de support: informations que vous envoyez volontairement par e-mail au support."
+        "Données de compte : identifiant utilisateur (UID), adresse e-mail, méthode de connexion (e-mail, Google, Apple).",
+        "Données fonctionnelles : inventaire alimentaire, historique de consommation/jet, recettes favorites, liste de courses, préférences alimentaires et objectifs.",
+        "Données techniques : jeton FCM de notifications push, métadonnées de sécurité minimales, journaux techniques nécessaires au diagnostic et à la prévention d'abus.",
+        "Données de contenu : informations produit issues du scan code-barres (Open Food Facts) et données de recettes générées via le proxy backend.",
+        "Données de support : informations que vous envoyez volontairement par e-mail au support."
       ]
     },
     {
       "id": "permissions",
       "title": "4. Permissions de l'appareil",
       "bullets": [
-        "Camera: scan des codes-barres produits.",
-        "Photos/galerie (selon plateforme): ajout d'image de profil.",
-        "Notifications: alertes d'expiration et rappels, uniquement si autorisees sur votre appareil."
+        "Caméra : scan des codes-barres produits.",
+        "Photos/galerie (selon plateforme) : ajout d'image de profil.",
+        "Notifications : alertes d'expiration et rappels, uniquement si autorisées sur votre appareil."
       ],
       "paragraphs": [
-        "Vous pouvez retirer ces autorisations depuis les reglages de votre appareil. Certaines fonctionnalites peuvent alors ne plus fonctionner normalement."
+        "Vous pouvez retirer ces autorisations depuis les réglages de votre appareil. Certaines fonctionnalités peuvent alors ne plus fonctionner normalement."
       ]
     },
     {
       "id": "finalites",
-      "title": "5. Finalites et bases juridiques",
+      "title": "5. Finalités et bases juridiques",
       "bullets": [
-        "Fournir le service WasteLess (execution du contrat): authentification, sauvegarde cloud, synchronisation de l'inventaire, suggestions recettes, planification et liste de courses.",
-        "Envoyer des notifications si vous les activez (consentement / parametres appareil).",
-        "Securiser la plateforme (interet legitime): limitation d'abus, protection des infrastructures, prevention de fraude.",
-        "Respecter nos obligations legales et reglementaires (obligation legale)."
+        "Fournir le service WasteLess (exécution du contrat) : authentification, sauvegarde cloud, synchronisation de l'inventaire, suggestions de recettes, planification et liste de courses.",
+        "Envoyer des notifications si vous les activez (consentement / paramètres appareil).",
+        "Sécuriser la plateforme (intérêt légitime) : limitation d'abus, protection des infrastructures, prévention de fraude.",
+        "Respecter nos obligations légales et réglementaires (obligation légale)."
       ]
     },
     {
       "id": "tiers",
       "title": "6. Destinataires et sous-traitants",
       "paragraphs": [
-        "Vos donnees peuvent etre traitees par les prestataires suivants, uniquement pour les finalites decrites dans cette politique:"
+        "Vos données peuvent être traitées par les prestataires suivants, uniquement pour les finalités décrites dans cette politique :"
       ],
       "bullets": [
-        "Google Firebase (Auth, Firestore, Storage, Cloud Functions, Cloud Messaging): hebergement, authentification, base de donnees, fonctions serveur, notifications.",
-        "OpenAI: generation de suggestions/traits IA et eventuellement images de recettes via backend proxy.",
-        "Spoonacular: services recettes selon les flux actives.",
-        "Open Food Facts: donnees produits apres scan code-barres.",
-        "Resend: envoi d'e-mails transactionnels (ex.: e-mail de bienvenue, si active).",
-        "Apple et Google: authentification federes et achats in-app/gestion d'abonnement sur les stores."
+        "Google Firebase (Auth, Firestore, Storage, Cloud Functions, Cloud Messaging) : hébergement, authentification, base de données, fonctions serveur, notifications.",
+        "OpenAI : génération de fonctionnalités IA et, le cas échéant, d'images de recettes via le backend proxy.",
+        "Spoonacular : services de recettes selon les flux activés.",
+        "Open Food Facts : données produit après scan code-barres.",
+        "Resend : envoi d'e-mails transactionnels (ex. : e-mail de bienvenue, si activé).",
+        "Apple et Google : authentification fédérée et achats in-app / gestion d'abonnement sur les stores."
       ]
     },
     {
       "id": "transferts",
       "title": "7. Transferts internationaux",
       "paragraphs": [
-        "Certains prestataires peuvent traiter des donnees en dehors de votre pays de residence, y compris hors Canada ou hors EEE.",
-        "Lorsque requis, nous nous appuyons sur des mecanismes contractuels et organisationnels appropries (clauses contractuelles types, mesures de securite techniques et controles d'acces)."
+        "Certains prestataires peuvent traiter des données en dehors de votre pays de résidence, y compris hors Canada ou hors EEE.",
+        "Lorsque requis, nous nous appuyons sur des mécanismes contractuels et organisationnels appropriés (clauses contractuelles types, mesures de sécurité techniques et contrôles d'accès)."
       ]
     },
     {
       "id": "conservation",
-      "title": "8. Duree de conservation",
+      "title": "8. Durée de conservation",
       "bullets": [
-        "Donnees de compte et donnees applicatives: conservees tant que votre compte est actif.",
-        "Journaux techniques: conservation limitee et proportionnee aux besoins de securite et diagnostic.",
-        "E-mails de support: conservation le temps necessaire au traitement de votre demande et aux obligations legales eventuelles."
+        "Données de compte et données applicatives : conservées tant que votre compte est actif.",
+        "Journaux techniques : conservation limitée et proportionnée aux besoins de sécurité et de diagnostic.",
+        "E-mails de support : conservation le temps nécessaire au traitement de votre demande et aux obligations légales éventuelles."
       ],
       "paragraphs": [
-        "En cas de suppression du compte, nous supprimons ou anonymisons les donnees selon les contraintes techniques et legales applicables."
+        "En cas de suppression du compte, nous supprimons ou anonymisons les données selon les contraintes techniques et légales applicables."
       ]
     },
     {
       "id": "suppression",
       "title": "9. Suppression du compte et effacement",
       "paragraphs": [
-        "Vous pouvez demander la suppression de votre compte depuis l'app (selon disponibilite de la fonctionnalite) ou en contactant le support.",
-        "La suppression declenche un nettoyage des donnees associees (profils, inventaire, historique, favoris, listes de courses et donnees connexes), sous reserve des donnees a conserver pour obligations legales, securite ou prevention de fraude.",
-        "Important: la suppression du compte app n'annule pas automatiquement un abonnement store. La gestion d'abonnement se fait via App Store/Google Play."
+        "Vous pouvez demander la suppression de votre compte depuis l'app (selon disponibilité de la fonctionnalité) ou en contactant le support.",
+        "La suppression déclenche un nettoyage des données associées (profil, inventaire, historique, favoris, listes de courses et données connexes), sous réserve des données à conserver pour obligations légales, sécurité ou prévention de fraude.",
+        "Important : la suppression du compte app n'annule pas automatiquement un abonnement store. La gestion d'abonnement se fait via App Store/Google Play."
       ]
     },
     {
       "id": "droits",
       "title": "10. Vos droits (Canada, France, UE selon votre situation)",
       "bullets": [
-        "Acces, rectification et mise a jour de vos donnees.",
-        "Suppression (droit a l'effacement), limitation, opposition, et portabilite lorsque applicable.",
-        "Retrait du consentement (ex.: notifications) sans effet retroactif.",
-        "Depot d'une reclamation aupres d'une autorite de controle competente. Pour la France: CNIL (cnil.fr)."
+        "Accès, rectification et mise à jour de vos données.",
+        "Suppression (droit à l'effacement), limitation, opposition et portabilité lorsque applicable.",
+        "Retrait du consentement (ex. : notifications) sans effet rétroactif.",
+        "Dépôt d'une réclamation auprès d'une autorité de contrôle compétente. Pour la France : CNIL (cnil.fr)."
       ],
       "paragraphs": [
-        "Pour exercer vos droits, ecrivez a support.wasteless@gmail.com en precisant votre demande et l'adresse e-mail de votre compte. Nous pourrons vous demander une verification d'identite raisonnable."
+        "Pour exercer vos droits, écrivez à support.wasteless@gmail.com en précisant votre demande et l'adresse e-mail de votre compte. Nous pourrons vous demander une vérification d'identité raisonnable."
       ]
     },
     {
       "id": "securite",
-      "title": "11. Securite",
+      "title": "11. Sécurité",
       "bullets": [
-        "Controle d'acces aux donnees et principe du moindre privilege.",
-        "Canaux de communication securises (HTTPS/TLS).",
-        "Regles de securite Firebase et mecanismes anti-abus cote serveur.",
-        "Mesures de journalisation technique limitees a la securite et au diagnostic."
+        "Contrôle d'accès aux données et principe du moindre privilège.",
+        "Canaux de communication sécurisés (HTTPS/TLS).",
+        "Règles de sécurité Firebase et mécanismes anti-abus côté serveur.",
+        "Mesures de journalisation technique limitées à la sécurité et au diagnostic."
       ],
       "paragraphs": [
-        "Aucune methode de transmission ou de stockage n'est totalement invulnerable. Nous appliquons des mesures raisonnables et adaptees au risque."
+        "Aucune méthode de transmission ou de stockage n'est totalement invulnérable. Nous appliquons des mesures raisonnables et adaptées au risque."
       ]
     },
     {
       "id": "mineurs",
       "title": "12. Mineurs",
       "paragraphs": [
-        "Le service n'est pas concu pour collecter volontairement des donnees d'enfants en violation des lois applicables.",
-        "Si vous pensez qu'un mineur nous a fourni des donnees personnelles de maniere inappropriee, contactez-nous pour suppression rapide."
+        "Le service n'est pas conçu pour collecter volontairement des données d'enfants en violation des lois applicables.",
+        "Si vous pensez qu'un mineur nous a fourni des données personnelles de manière inappropriée, contactez-nous pour suppression rapide."
       ]
     },
     {
       "id": "cookies",
       "title": "13. Cookies et technologies similaires",
       "paragraphs": [
-        "L'application mobile n'utilise pas de bandeau cookies traditionnel comme un site web marketing. Certains composants techniques (ex.: sessions d'authentification, services cloud) peuvent utiliser des mecanismes equivalents strictement necessaires au fonctionnement."
+        "L'application mobile n'utilise pas de bandeau cookies traditionnel comme un site web marketing. Certains composants techniques (ex. : sessions d'authentification, services cloud) peuvent utiliser des mécanismes équivalents strictement nécessaires au fonctionnement."
       ]
     },
     {
       "id": "modifs",
       "title": "14. Modifications de cette politique",
       "paragraphs": [
-        "Nous pouvons mettre a jour cette politique pour refleter les evolutions du service, des exigences legales ou de nos pratiques.",
-        "La date de mise a jour en haut de page indique la version en vigueur. En cas de changements importants, nous pouvons vous informer via l'app ou par e-mail."
+        "Nous pouvons mettre à jour cette politique pour refléter les évolutions du service, des exigences légales ou de nos pratiques.",
+        "La date de mise à jour en haut de page indique la version en vigueur. En cas de changements importants, nous pouvons vous informer via l'app ou par e-mail."
       ]
     },
     {
       "id": "contact",
       "title": "15. Contact",
       "bullets": [
-        "Support et demandes vie privee: support.wasteless@gmail.com",
-        "Contact legal editeur: giovanni.hilaire01@gmail.com",
-        "Editeur: Hilaire Giovanni, 925 Boulevard Rene-Levesque Est, Canada"
+        "Support et demandes vie privée : support.wasteless@gmail.com",
+        "Contact juridique éditeur : giovanni.hilaire01@gmail.com",
+        "Éditeur : Hilaire Giovanni, 925 Boulevard René-Lévesque Est, Canada"
       ]
     }
   ]

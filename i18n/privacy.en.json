@@ -1,14 +1,14 @@
 {
   "lang": "en",
   "title": "Privacy Policy - WasteLess",
-  "description": "Privacy policy for the WasteLess mobile application (EN).",
+  "description": "Privacy policy for the WasteLess mobile app (EN).",
   "intro": "This policy explains how WasteLess collects, uses, protects, and deletes your personal data when you use the mobile app.",
   "lastUpdated": "April 6, 2026",
   "effectiveDate": "April 6, 2026",
   "tocTitle": "Contents",
   "labelLastUpdated": "Last updated",
   "labelEffectiveDate": "Effective date",
-  "footnote": "If translations differ, local mandatory law prevails. For French-speaking users, the French version is the primary reference unless local law requires otherwise.",
+  "footnote": "If translations differ, mandatory local law prevails. For French-speaking users, the French version is the primary reference unless local law requires otherwise.",
   "sections": [
     {
       "id": "controller",
@@ -24,7 +24,7 @@
       "title": "2. Scope",
       "paragraphs": [
         "This policy applies to the WasteLess application and related services (authentication, cloud sync, recipe suggestions, shopping list, notifications, and support).",
-        "It does not cover third-party services outside our control (for example, external pages opened from the app or Apple/Google store pages)."
+        "It does not cover third-party services outside our control (for example, external pages opened from the app or Apple/Google Store pages)."
       ]
     },
     {
@@ -71,7 +71,7 @@
       ],
       "bullets": [
         "Google Firebase (Auth, Firestore, Storage, Cloud Functions, Cloud Messaging): hosting, authentication, database, server functions, notifications.",
-        "OpenAI: AI-generated suggestions/features and, where applicable, recipe images through the backend proxy.",
+        "OpenAI: AI-generated features and, where applicable, recipe images through the backend proxy.",
         "Spoonacular: recipe services for relevant product flows.",
         "Open Food Facts: product data after barcode scans.",
         "Resend: transactional email delivery (for example, welcome email if enabled).",
