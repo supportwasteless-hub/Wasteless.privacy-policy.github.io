@@ -1,0 +1,52 @@
+{
+  "lang": "fr",
+  "title": "Suppression de compte - WasteLess",
+  "description": "Informations publiques sur la suppression de compte WasteLess.",
+  "intro": "Cette page explique comment demander la suppression de votre compte WasteLess et ce que cette suppression implique.",
+  "lastUpdated": "7 avril 2026",
+  "effectiveDate": "7 avril 2026",
+  "tocTitle": "Sommaire",
+  "labelLastUpdated": "Derniere mise a jour",
+  "labelEffectiveDate": "Date d'entree en vigueur",
+  "footnote": "Cette page est fournie pour aider les utilisateurs et pour les besoins de conformite des stores. Les details complets figurent aussi dans la Politique de confidentialite et les Conditions d'utilisation.",
+  "sections": [
+    {
+      "id": "request",
+      "title": "1. Comment demander la suppression",
+      "paragraphs": [
+        "Vous pouvez demander la suppression de votre compte WasteLess depuis l'application lorsqu'une option de suppression est disponible.",
+        "Si vous ne trouvez pas cette option ou si vous ne pouvez plus acceder a l'application, vous pouvez ecrire a support.wasteless@gmail.com depuis l'adresse associee a votre compte."
+      ]
+    },
+    {
+      "id": "verify",
+      "title": "2. Verification de l'identite",
+      "paragraphs": [
+        "Pour proteger votre compte, nous pouvons demander des elements raisonnables de verification avant de supprimer les donnees."
+      ]
+    },
+    {
+      "id": "effect",
+      "title": "3. Effet de la suppression",
+      "paragraphs": [
+        "Sauf obligation legale ou besoin de securite, la suppression du compte entraine la suppression ou l'anonymisation des donnees associees, notamment le profil, l'inventaire, l'historique, les favoris, les listes de courses, les meal plans et certaines donnees techniques rattachees au compte."
+      ]
+    },
+    {
+      "id": "subscription",
+      "title": "4. Abonnement",
+      "paragraphs": [
+        "La suppression du compte WasteLess n'annule pas automatiquement un abonnement achete via Apple App Store ou Google Play.",
+        "Vous devez annuler et gerer votre abonnement depuis votre compte Apple ou Google selon votre plateforme."
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "5. Contact",
+      "bullets": [
+        "Support et suppression de compte : support.wasteless@gmail.com",
+        "Editeur : Hilaire Giovanni, 925 Boulevard Rene-Levesque Est, Canada"
+      ]
+    }
+  ]
+}

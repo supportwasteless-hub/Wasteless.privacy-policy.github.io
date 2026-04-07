@@ -1,168 +1,198 @@
 {
   "lang": "en",
   "title": "Privacy Policy - WasteLess",
-  "description": "Privacy policy for the WasteLess mobile app (EN).",
-  "intro": "This policy explains how WasteLess collects, uses, protects, and deletes your personal data when you use the mobile app.",
-  "lastUpdated": "April 6, 2026",
-  "effectiveDate": "April 6, 2026",
+  "description": "Privacy Policy for the WasteLess mobile app and related services.",
+  "intro": "This policy explains in a complete and transparent way how WasteLess collects, uses, shares, protects, stores and deletes your data when you use the mobile app, its backend services and our support channels.",
+  "lastUpdated": "April 7, 2026",
+  "effectiveDate": "April 7, 2026",
   "tocTitle": "Contents",
   "labelLastUpdated": "Last updated",
   "labelEffectiveDate": "Effective date",
-  "footnote": "If translations differ, mandatory local law prevails. For French-speaking users, the French version is the primary reference unless local law requires otherwise.",
+  "footnote": "This policy is published on a public URL for users and store compliance purposes. If mandatory local law provides stronger protections, that law will prevail.",
   "sections": [
     {
       "id": "controller",
-      "title": "1. Data controller",
+      "title": "1. Data controller and contact details",
       "paragraphs": [
-        "The publisher and data controller is Hilaire Giovanni, 925 Boulevard Rene-Levesque Est, Canada.",
-        "Primary privacy and support contact: support.wasteless@gmail.com.",
-        "Secondary legal contact: support.wasteless@gmail.com."
+        "WasteLess is published by Hilaire Giovanni, 925 Boulevard Rene-Levesque Est, Canada.",
+        "Unless local law states otherwise, the publisher acts as the controller for the personal data described in this policy."
+      ],
+      "bullets": [
+        "Primary privacy and support contact: support.wasteless@gmail.com",
+        "Legal contact: support.wasteless@gmail.com"
       ]
     },
     {
       "id": "scope",
-      "title": "2. Scope",
+      "title": "2. Scope of this policy",
       "paragraphs": [
-        "This policy applies to the WasteLess application and related services (authentication, cloud sync, recipe suggestions, shopping list, notifications, and support).",
-        "It does not cover third-party services outside our control (for example, external pages opened from the app or Apple/Google Store pages)."
+        "This policy applies to the WasteLess mobile app, its backend, related databases and storage, notifications, support services and public legal pages.",
+        "It does not apply to third-party services operated under their own policies, including Apple, Google, Open Food Facts, Spoonacular or OpenAI when you interact with their environments outside WasteLess."
       ]
     },
     {
       "id": "data",
-      "title": "3. Data we collect",
+      "title": "3. Categories of data we process",
       "paragraphs": [
-        "We only collect data needed to provide and secure the service."
+        "We process the data needed to operate the service, secure it, provide support and manage in-app purchases."
       ],
       "bullets": [
-        "Account data: user identifier (UID), email address, and sign-in method (email, Google, Apple).",
-        "Functional data: food inventory, usage/disposal history, favorite recipes, shopping list, food preferences, and goals.",
-        "Technical data: push notification token (FCM), minimum security metadata, and limited technical logs for diagnostics and abuse prevention.",
-        "Content data: product details from barcode scanning (Open Food Facts) and recipe-related data generated through the backend proxy.",
-        "Support data: information you voluntarily send by email."
+        "Account and authentication data: Firebase UID, email address, display name, sign-in method identifier and the minimum account data received from Google, Apple or email authentication.",
+        "Profile data: display name, profile photo, stored photo URL and account information held in Firebase Auth and Firestore.",
+        "Inventory and usage data: food items, quantities, expiration dates, storage location, consumption or waste history, favorite recipes, shopping list data, meal plans, food preferences, goals and exclusions.",
+        "Scan and product data: entered or scanned barcode, product information and metadata obtained from Open Food Facts, category, nutrients, allergens, additives, brand and storage guidance.",
+        "Photo and media data: profile image selected from the camera or photo library, then uploaded to Firebase Storage.",
+        "Notification data: FCM push token, token refresh timestamps and notification-related preferences or permissions managed by your device.",
+        "Subscription and purchase verification data: free or pro status, expiration date, subscription provider, technical transaction identifiers, subscribed product and verification payloads sent to the backend to validate Apple or Google purchases.",
+        "Technical and security data: technical logs, errors, anti-abuse signals, App Check verification and minimum request information required to protect the service.",
+        "Support and user relationship data: emails sent to support and, where enabled, transactional emails such as a welcome email."
+      ]
+    },
+    {
+      "id": "sources",
+      "title": "4. Where the data comes from",
+      "bullets": [
+        "Directly from you when you create an account, edit your profile, add food, set preferences or contact support.",
+        "From your device when you use the camera, photo library, notifications or other device-level features, subject to your permissions.",
+        "From our technical providers for authentication, hosting, payments and infrastructure.",
+        "From third-party product or content providers integrated into the app, such as Open Food Facts and Spoonacular."
       ]
     },
     {
       "id": "permissions",
-      "title": "4. Device permissions",
-      "bullets": [
-        "Camera: barcode scanning.",
-        "Photos/gallery (platform-dependent): profile image selection.",
-        "Notifications: expiration alerts and reminders, only if enabled on your device."
-      ],
+      "title": "5. Device permissions",
       "paragraphs": [
-        "You can revoke permissions in your device settings. Some features may then be unavailable or degraded."
+        "WasteLess may request certain operating system permissions only to provide the related feature. You can revoke them in your device settings, but some features may then stop working properly."
+      ],
+      "bullets": [
+        "Camera: to scan product barcodes.",
+        "Photos or gallery: to choose a profile picture.",
+        "Notifications: to send expiration alerts and other useful notices if you allow them."
       ]
     },
     {
       "id": "purposes",
-      "title": "5. Purposes and legal bases",
+      "title": "6. Why we process data and our legal bases",
       "bullets": [
-        "Providing WasteLess services (contract performance): authentication, cloud backup, inventory sync, recipe suggestions, planning, and shopping list features.",
-        "Sending notifications when enabled (consent / device choice).",
-        "Platform security (legitimate interest): abuse mitigation, infrastructure protection, and fraud prevention.",
-        "Compliance with legal and regulatory obligations."
+        "To provide WasteLess and perform our contract with you: account creation, authentication, cloud sync, inventory features, recipes, shopping list, meal plans, profile and support.",
+        "To process user requests and provide assistance: support responses, troubleshooting and service continuity.",
+        "To manage in-app purchases and related entitlements: purchase verification, restore flows, anti-fraud checks and quota management.",
+        "To protect the security, integrity and availability of the service based on our legitimate interests: logging, abuse prevention, backend protection, access control and fraud prevention.",
+        "To send notifications if you have enabled them, based on your consent or device settings.",
+        "To comply with legal, accounting, tax, evidence preservation and regulatory obligations where applicable."
       ]
     },
     {
-      "id": "processors",
-      "title": "6. Recipients and processors",
+      "id": "ai",
+      "title": "7. Automated features, AI and third-party data",
       "paragraphs": [
-        "Your data may be processed by the following service providers only for the purposes described in this policy:"
+        "Some WasteLess features rely on automated processing, including AI services routed through the backend, to generate recipe suggestions, assist with estimates or enrich content.",
+        "These outputs are provided for convenience and information only. They may be inaccurate, incomplete or unsuitable for your personal circumstances."
       ],
       "bullets": [
-        "Google Firebase (Auth, Firestore, Storage, Cloud Functions, Cloud Messaging): hosting, authentication, database, server functions, notifications.",
-        "OpenAI: AI-generated features and, where applicable, recipe images through the backend proxy.",
-        "Spoonacular: recipe services for relevant product flows.",
-        "Open Food Facts: product data after barcode scans.",
-        "Resend: transactional email delivery (for example, welcome email if enabled).",
-        "Apple and Google: federated sign-in and in-app purchase/subscription management through app stores."
+        "You remain responsible for checking ingredients, allergens, timings, temperatures, storage conditions and the suitability of any suggestion.",
+        "WasteLess does not provide medical advice, diagnosis or personalized nutritional guarantees.",
+        "Third-party data sources such as Open Food Facts or Spoonacular may contain errors, delays or gaps."
+      ]
+    },
+    {
+      "id": "sharing",
+      "title": "8. Recipients, processors and sharing",
+      "paragraphs": [
+        "We do not sell your personal data. We share data only with recipients that are necessary to operate the service, process payments, provide support, secure the platform or comply with the law."
+      ],
+      "bullets": [
+        "Google Firebase and Google Cloud: authentication, Firestore database, file storage, Cloud Functions, push messaging and related infrastructure.",
+        "Apple: federated sign-in, iOS purchase handling, receipt verification and subscription management.",
+        "Google Play: Android purchase handling, purchase verification, restore flows and subscription management.",
+        "OpenAI: AI processing and, depending on enabled features, content or illustration generation through the backend.",
+        "Spoonacular: recipe-related data and services where those flows are enabled.",
+        "Open Food Facts: product data fetched after barcode scans or lookups.",
+        "Resend: transactional email delivery, including welcome emails where enabled.",
+        "Authorities, courts, advisers or security providers where disclosure is legally required or necessary to defend our rights."
       ]
     },
     {
       "id": "transfers",
-      "title": "7. International transfers",
+      "title": "9. International transfers",
       "paragraphs": [
-        "Some providers may process data outside your country of residence, including outside Canada or outside the EEA.",
-        "Where required, we rely on appropriate safeguards such as contractual commitments and technical/organizational security controls."
+        "Depending on your location and the location of our providers, some data may be processed or accessed from countries other than your state, province, country or the European Economic Area.",
+        "Where required, we rely on appropriate contractual, organizational and technical safeguards for such transfers."
       ]
     },
     {
       "id": "retention",
-      "title": "8. Retention",
-      "bullets": [
-        "Account and app data: kept while your account remains active.",
-        "Technical logs: retained for limited periods, proportionate to security and diagnostics needs.",
-        "Support emails: retained for as long as needed to handle your request and meet legal obligations."
-      ],
+      "title": "10. Retention",
       "paragraphs": [
-        "When your account is deleted, data is deleted or anonymized subject to technical and legal constraints."
+        "We keep personal data for as long as needed for the purposes described in this policy, then delete, anonymize or archive it where required by law."
+      ],
+      "bullets": [
+        "Account, profile, inventory, meal plan, favorites, shopping list and preference data: generally for as long as your account remains active, then until deletion processing is completed.",
+        "Subscription, purchase verification, anti-fraud and related technical records: for as long as reasonably necessary to prove transactions, prevent abuse, handle disputes and meet legal obligations.",
+        "Notification tokens and related data: until they are replaced, invalidated, no longer needed or the account is deleted.",
+        "Support emails: for the time needed to handle the request, follow up and preserve reasonable evidence where necessary."
       ]
     },
     {
       "id": "deletion",
-      "title": "9. Account deletion and erasure",
+      "title": "11. Account deletion, erasure and subscriptions",
       "paragraphs": [
-        "You may request account deletion from the app (where available) or by contacting support.",
-        "Deletion triggers cleanup of associated data (profile, inventory, history, favorites, shopping lists, and related records), except where retention is required for legal, security, or anti-fraud reasons.",
-        "Important: deleting your app account does not automatically cancel store subscriptions. Subscription management remains in App Store/Google Play settings."
+        "You may request deletion of your account from the app when an in-app option is available, or by contacting us at support.wasteless@gmail.com. We may request reasonable identity verification before acting on the request.",
+        "Deleting the account triggers deletion or anonymization of associated data, subject to legal or security exceptions, including profile data, inventory, history, favorites, shopping lists, meal plans, related sharing data and some account-linked technical records."
+      ],
+      "bullets": [
+        "Some information may be kept longer when necessary for legal compliance, evidence, fraud prevention, security or dispute handling.",
+        "Deleting your WasteLess account does not automatically cancel a subscription purchased through the App Store or Google Play.",
+        "Cancellation, restore, refund and subscription management must be handled through your Apple or Google account depending on your platform."
       ]
     },
     {
       "id": "rights",
-      "title": "10. Your rights (Canada, France, EU depending on your location)",
-      "bullets": [
-        "Access, correction, and update rights.",
-        "Erasure, restriction, objection, and data portability where applicable.",
-        "Withdrawal of consent (for example, notifications) without retroactive effect.",
-        "Right to lodge a complaint with a competent supervisory authority."
-      ],
+      "title": "12. Your rights",
       "paragraphs": [
-        "To exercise your rights, contact support.wasteless@gmail.com and include your request plus the email associated with your account. We may request reasonable identity verification."
+        "Depending on the law that applies to you, you may have rights of access, correction, deletion, portability, objection, restriction, consent withdrawal and complaint.",
+        "To exercise your rights, contact us at support.wasteless@gmail.com and specify the email address linked to your account and the nature of your request."
+      ],
+      "bullets": [
+        "We may request reasonable information to verify your identity and protect your data against fraudulent requests.",
+        "If you are located in the EU or another jurisdiction with a supervisory authority, you may also lodge a complaint with the competent authority."
       ]
     },
     {
       "id": "security",
-      "title": "11. Security",
-      "bullets": [
-        "Access controls and least-privilege principles.",
-        "Secure communication channels (HTTPS/TLS).",
-        "Firebase security rules and server-side anti-abuse mechanisms.",
-        "Limited technical logging for diagnostics and security only."
-      ],
+      "title": "13. Security",
       "paragraphs": [
-        "No transmission or storage method is completely risk-free. We apply reasonable safeguards aligned with the sensitivity of data and service risks."
+        "We implement reasonable security measures appropriate to the nature of the data and the risks involved."
+      ],
+      "bullets": [
+        "Authentication and access control based on least privilege.",
+        "Encryption in transit through HTTPS or TLS where available.",
+        "Firebase security rules, backend controls, App Check, abuse prevention and technical logging.",
+        "Restricted internal access to people and providers who need the data to perform their role."
       ]
     },
     {
       "id": "children",
-      "title": "12. Children",
+      "title": "14. Children",
       "paragraphs": [
-        "The service is not designed to intentionally collect personal data from children in violation of applicable law.",
-        "If you believe a child has provided personal data inappropriately, contact us for prompt review and deletion."
+        "WasteLess is a general audience application and is not specifically designed for children under laws that require enhanced protections.",
+        "If you believe a child has provided us with personal data in violation of applicable law, please contact us so we can review and delete the data where appropriate."
       ]
     },
     {
-      "id": "cookies",
-      "title": "13. Cookies and similar technologies",
+      "id": "stores",
+      "title": "15. Store-related disclosures",
       "paragraphs": [
-        "The mobile app does not use a traditional website cookie banner. Some technical components (for example, authentication sessions and cloud services) may rely on strictly necessary equivalent mechanisms."
+        "This policy is intended to support store transparency requirements, including Google Play and the App Store, but it does not replace platform-native disclosures such as Apple's privacy nutrition information or Google Play's Data safety section.",
+        "Those disclosures should remain consistent with this policy, the app's screens and our actual practices."
       ]
     },
     {
-      "id": "changes",
-      "title": "14. Policy changes",
+      "id": "updates",
+      "title": "16. Changes to this policy",
       "paragraphs": [
-        "We may update this policy to reflect service changes, legal updates, or operational practices.",
-        "The date at the top indicates the current version. For material changes, we may notify you in-app or by email."
-      ]
-    },
-    {
-      "id": "contact",
-      "title": "15. Contact",
-      "bullets": [
-        "Support and privacy requests: support.wasteless@gmail.com",
-        "Legal publisher contact: support.wasteless@gmail.com",
-        "Publisher: Hilaire Giovanni, 925 Boulevard Rene-Levesque Est, Canada"
+        "We may update this policy to reflect changes to the service, our providers, legal obligations or data practices.",
+        "The last updated date at the top of the page indicates the current version. Where material changes are made, we may notify you in the app, by email or by another appropriate method."
       ]
     }
   ]

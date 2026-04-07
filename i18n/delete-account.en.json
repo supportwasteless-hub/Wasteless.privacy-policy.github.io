@@ -1,0 +1,52 @@
+{
+  "lang": "en",
+  "title": "Account Deletion - WasteLess",
+  "description": "Public information about deleting a WasteLess account.",
+  "intro": "This page explains how to request deletion of your WasteLess account and what that deletion means.",
+  "lastUpdated": "April 7, 2026",
+  "effectiveDate": "April 7, 2026",
+  "tocTitle": "Contents",
+  "labelLastUpdated": "Last updated",
+  "labelEffectiveDate": "Effective date",
+  "footnote": "This page is provided for users and store compliance purposes. Full details also appear in the Privacy Policy and Terms of Use.",
+  "sections": [
+    {
+      "id": "request",
+      "title": "1. How to request deletion",
+      "paragraphs": [
+        "You can request deletion of your WasteLess account from the app when an in-app deletion option is available.",
+        "If you cannot find that option or can no longer access the app, you can email support.wasteless@gmail.com from the email address linked to your account."
+      ]
+    },
+    {
+      "id": "verify",
+      "title": "2. Identity verification",
+      "paragraphs": [
+        "To protect your account, we may request reasonable identity verification before deleting data."
+      ]
+    },
+    {
+      "id": "effect",
+      "title": "3. Effect of deletion",
+      "paragraphs": [
+        "Unless legal retention or security needs apply, account deletion results in deletion or anonymization of associated data, including profile, inventory, history, favorites, shopping lists, meal plans and certain account-linked technical records."
+      ]
+    },
+    {
+      "id": "subscription",
+      "title": "4. Subscription",
+      "paragraphs": [
+        "Deleting your WasteLess account does not automatically cancel a subscription purchased through Apple App Store or Google Play.",
+        "You must cancel and manage your subscription from your Apple or Google account depending on your platform."
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "5. Contact",
+      "bullets": [
+        "Support and account deletion: support.wasteless@gmail.com",
+        "Publisher: Hilaire Giovanni, 925 Boulevard Rene-Levesque Est, Canada"
+      ]
+    }
+  ]
+}

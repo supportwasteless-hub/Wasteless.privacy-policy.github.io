@@ -25,6 +25,15 @@ const DOCS = [
       en: "/en/terms/"
     },
     defaultRoute: "/terms/"
+  },
+  {
+    key: "delete-account",
+    inputPrefix: "delete-account",
+    routeByLang: {
+      fr: "/fr/delete-account/",
+      en: "/en/delete-account/"
+    },
+    defaultRoute: "/delete-account/"
   }
 ];
 
